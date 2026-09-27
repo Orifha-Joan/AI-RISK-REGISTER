@@ -639,6 +639,7 @@ This has shaped how I see technology:
 ## 💜 contact me
 
 **📩 joanorifha@gmail.com**
-**📞 09131491313
+
+**📞 09131491313 **
 
 **Built by Purple Girl 💜**
