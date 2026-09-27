@@ -1,6 +1,6 @@
 # 💜 T_LDC AI Risk Register
 
-> **The Light Diagnostic Center | AI Adoption & Risk Assessment**
+> **The Light Diagnostic Center Risk Assessment**
 >
 > A practical AI risk assessment case study focused on healthcare, AI security, governance, business impact, and responsible adoption.
 
@@ -33,8 +33,6 @@ The CEO intends to digitalize the organization as much as possible, not to elimi
 
 As the AI Adoption and Implementation Strategist, the objective is to evaluate the organization's environment, identify where AI currently exists or is proposed within the workflow, assess the risks associated with the intended AI systems, and help T_LDC make informed decisions that support technology adoption while maximizing the value of its investment.
 
-> ### 💡 Core Question
-> **The question is not simply whether T_LDC should adopt AI. The question is what level of AI adoption the organization can safely support, what controls are required, and how the organization can achieve measurable value from the technology.**
 
 ---
 
