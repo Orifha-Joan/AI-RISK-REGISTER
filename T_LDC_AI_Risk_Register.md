@@ -628,7 +628,7 @@ Employees should understand:
 
 I am **Orifha Joan Thompson**, a technology and business professional building at the intersection of **technology, business and people**.
 
-My journey started in Banking and Finance before I pivoted into Cybersecurity. Today, I am deepening that intersection through a Master's in Business Analytics and Applied AI.
+My journey started in Banking and Finance before I pivoted into Cybersecurity. 
 
 This has shaped how I see technology:
 
@@ -636,10 +636,9 @@ This has shaped how I see technology:
 
 ---
 
-## 💜 Project Philosophy
+## 💜 contact me
 
-**AI adoption should create value, not simply introduce technology.**
-
-This project explores what responsible AI adoption looks like when security, governance, business objectives, people and technology are considered together.
+**📩 joanorifha@gmail.com**
+**📞 09131491313
 
 **Built by Purple Girl 💜**
